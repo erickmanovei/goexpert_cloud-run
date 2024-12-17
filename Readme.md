@@ -55,3 +55,6 @@ Deploy realizado no Google Cloud Run (free tier) e endereço ativo para ser aces
 1. Acesse o arquivo /api_test.go
 
 2. Execute cada teste, selecionando o teste que deseja e clicando em "run test".
+
+## Endereço ativo no Cloud Run
+https://cloud-run-54irf5cqoa-uc.a.run.app/cep?cep=41650000
